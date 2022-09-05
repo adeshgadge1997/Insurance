@@ -6,5 +6,10 @@ public class Test
 	{
 		System.out.println("This is dispaly method");
 	}
+	
+	public String getName()
+	{
+		return "Adesh";
+	}
 
 }
