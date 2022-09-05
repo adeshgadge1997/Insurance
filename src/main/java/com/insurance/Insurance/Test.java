@@ -18,6 +18,7 @@ public class Test
 	{
 		ArrayList arr = new ArrayList();
 		arr.add(334);
+		arr.add(345);
 		return "Gadge";
 	}
 	
