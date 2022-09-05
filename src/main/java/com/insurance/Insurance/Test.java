@@ -11,5 +11,10 @@ public class Test
 	{
 		return "Adesh";
 	}
+	
+	public String getLastName()
+	{
+		return "Gadge";
+	}
 
 }
