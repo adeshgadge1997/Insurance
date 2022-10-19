@@ -11,6 +11,7 @@ public class Demo
 	public static final String FC023 = "FC023";
 	public static final String FC024 = "FC024";
 	
+	public static final String[] str1 = {"Adesh"};
 	
 	
 	
